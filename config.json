@@ -1,0 +1,9 @@
+{
+	"ip":"colorfulcraft.aternos.me",
+	"port": "42422",
+	"name": "administrator",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
